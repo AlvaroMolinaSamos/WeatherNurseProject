@@ -1,2 +1,55 @@
 # WeatherNurseProject
 Proyecto WeatherNurse
+DEFINICIÓN, FILOSOFÍA Y PRINCIPIOS DE WEATHER NURSE
+
+¿Qué es Weather Nurse?
+Es una organización científica sin fines de lucro, que investiga tecnologías que permitan regular los regímenes de lluvia a lo largo del año, influyendo sobre la cantidad de masa de agua generada en los océanos, ya sea para reducirla en época de inundaciones, como para incrementarla en época de sequías, considerando además de las corrientes marinas, las corrientes de los vientos y todos los aspectos meteorológicos asociados; sobre la base de principios físicos simples.
+
+Misión de Weather Nurse
+La misión de Weather Nurse, es facilitar la adaptación del mundo al cambio climático provocado por el calentamiento global, mejorar las condiciones climáticas adversas, regulando los regímenes de lluvia, incrementando las probabilidades de lluvia en zonas de sequía y reduciendo las probabilidades de lluvia en zonas de inundación, contribuyendo al enfriamiento de los océanos en temporada de huracanes, y con suerte hacer verdes los desiertos, apoyando así a la agricultura, a los bosques, a la naturaleza y la humanidad. Y con el éxito, a su vez, lograr regresión del cambio climático.
+
+Visión de Weather Nurse
+Ser conocidos, reconocidos y apoyados globalmente, como un ente científico que investiga, desarrolla e implementa tecnologías innovadoras en el ámbito climático que favorecen la adaptación del mundo, a las nuevas condiciones climáticas provocadas por el calentamiento global, y que logra administrar o al menos influenciar parcialmente y de forma positiva sobre las masas de agua oceánicas, que se evaporan para convertirse luego en nubes y lluvias, a través de sus dispositivos. Creando un futuro sostenible en el que las condiciones climáticas favorezcan al desarrollo de bosques, garanticen aprovisionamiento de agua dulce y a un agro productivo. Nosotros vemos un mundo adaptado al calentamiento global, que regula y administra las lluvias, un mundo donde se ha reducido la probabilidad de desastres climáticos como inundaciones y sequías.
+
+Valores
+Los valores son fundamentales y le piedra angular sobre la cual Weather Nurse basa sus principios y forma de operación, guiando día a día sus acciones y la forma de encarar sus proyectos científicos:
+•	Innovación. Requisito fundamental para proponer nuevas tecnologías e ideas científicas; sin la cual, Weather Nurse carece de sentido, y por eso mismo el primer valor de la institución, en la cual prima un ambiente abierto a ideas aparentemente descabelladas que orienten la investigación científica y tecnológica, hacia soluciones jamás planteadas y siempre orientadas a cumplir la misión de la institución, a la adaptación al cambio climático, a la administración de las lluvias, a garantizar la disponibilidad de agua potable en el planeta, a controlar las lluvias para evitar desastres naturales como inundaciones o sequías, a favorecer el reverdecimiento de desiertos.
+•	Compromiso. Dedicación absoluta a la causa de la organización, a la adaptación al cambio climático y a la administración de lo regímenes de lluvias que llevarán a una vida mejor a un mundo mejor y a un clima global mejorado.
+•	Honestidad. Honestidad de todo el personal de la institución en la administración de recursos públicos, privados y de donaciones, que son empleados únicamente para posibilitar el desarrollo de las actividades de investigación científica y tecnológica, así como para la implementación de los dispositivos creados por Weather Nurse para el favorecimiento de la humanidad.
+•	Colaboración. El espíritu colaborativo en Weather Nurse debe siempre primar, compartiendo información científica y tecnológica con el mundo científico, recibiendo talentos que puedan aportar al objetivo global de Weather Nurse.
+•	Gratuidad. La tecnología desarrollada por Weather Nurse será siempre gratuita para su empleo por la humanidad, puesto que es una institución sin fines de lucro y su único fin está expresado en la misión y visión de Weather Nurse.
+•	Sostenibilidad. Weahter Nurse se sostendrá como ente de investigación científica y desarrollará e implementará sus dispositivos y tecnología, con base a donaciones de cualquier fuente pública y/o privada cuyos intereses estén alineados con los de Weather Nurse y podría concursar fondos dedicados a la adaptación de la humanidad al cambio climático por el calentamiento global, donaciones de particulares y aportes no solo monetarios, sino científicos e intelectuales de cualquier persona del mundo que se sienta solidaria con la causa de Weather Nurse.
+•	Perseverancia. Uno de los pilares fundamentales del éxito de cualquier emprendimiento, Weather Nurse perseverará siempre en pro de sus objetivos sobre la base científica que se sustenta y/o sobre la modificación de sus principios científicos que le permitan progresar para la consecución de su ideal, de su misión.
+•	Capacidad. Weather Nurse buscará siempre el apoyo de científicos de todas las áreas del conocimiento que se sientan en la necesidad e aportar en esta temática, estableciendo además un sociedad científica colaborativa que coadyuve al éxito de Weather Nurse.
+
+Objetivos
+Construir o fabricar modelos de prueba, de los dispositivos marinos flotantes (boyas), llamados Weather Nurse. Mismos que van a contribuir a regular los regímenes de lluvia, contribuyendo al enfriamiento de los océanos; y al mismo tiempo y según la necesidad, provocando mayor evaporación desde las zonas en que los vientos se dirigen a territorios en estado de sequía, o impidiendo la formación de vapor, desde zonas desde donde los vientos se dirigen a zonas con exceso de lluvias y/o inundaciones.
+Incrementar la probabilidad de lluvias en zonas de sequía y/o en zonas desérticas.
+Reducir la magnitud de lluvias en zonas de inundación o con exceso de lluvias.
+Enfriar el agua de los océanos que está recalentada por efecto del cambio climático y el calentamiento global.
+Frenar el efecto del cambio climático sobre la disponibilidad de agua e incrementar la probabilidad de lluvias en todas las épocas del año, incrementando así la disponibilidad de agua dulce, reponiendo el agua de acuíferos subterráneos, ayudando ala vida del planeta.
+Reverdecer desiertos, aprovechando las corrientes de viento que van desde los océanos a los desiertos y que hoy no llevan suficiente agua para hacer llover en ellos, porque no existe suficiente evaporación de aguas en esas zonas del océano; con este proyecto, se incrementará la evaporación superficial y con ello se incrementará la humedad hasta la formación de nubes; cuando estas nubes estén encima de los desiertos, se podría hacer llover con el bombardeo de con Ioduro de plata y de esta forma garantizar lluvias en los desiertos, hasta lograr su cobertura vegetal, que luego evapotranspirará para mejorar su ciclo hidrológico.
+
+PROPUESTA DE VALOR
+Está más que claro el gran valor que orece este proyecto que en su máxima, con solo el uso de dispositivos sencillos y económicos, aprovechando la energía solar, y la propia energía dinámica del mar, podría regular los ciclos hidrológicos, los regímenes de lluvia de forma global, evitando épocas de lluvia en las que la concentración de las lluvias de alta intensidad provocan estragos, por crecidas de ríos más allá de sus máximos históricos,  inundaciones y otros, haciendo que las lluvias sean más suaves y reiteradas, permitiendo la infiltración de aguas y la recarga de acuíferos. Al mismo tiempo, incrementará la probabilidad de lluvias en época seca; haciendo que los bosques están más verdes, que haya mayor disponibilidad de agua dulce durante toda época del año y evitando el actual fenómeno de profundización de los niveles de agua de los acuíferos subterráneos y garantizando la vida de los bosques y el escurrimiento de aguas dulces, claras y frescas en los ríos y arroyos, rellenando presas que hoy ya no se llenan. De donde la humanidad toma el agua para hacerla potable y distribuirla en las ciudades.
+Con su exitosa implementación, se podría garantizar no solo la disponibilidad de agua dulce para el futuro de la humanidad, si no que, de forma muy rápida, se podría garantizar la provisión de agua dulce en poblaciones en todas las poblaciones y ciudades en las que hoy el líquido elemento es escaso.
+
+
+
+METAS DEL PROYECTO WEATHER NURSE
+
+Diseñar y construir y probar los siguientes tipos de modelos de Weather Nurse:
+•	Modelo Solar tonto, que solo produce vapor a la vez que enfría las aguas del océano. Para instalarse en lotes fijos con cordones perimetrales que terminan en boyas ancladas y cuya ubicación global será en zonas desde donde se requiere incrementar la humedad para incrementar las probabilidades de lluvias.
+•	Modelo tonto, que solo enfría las aguas del océano. Para ubicarse en zonas oceánicas donde prima el calor y el mar está sobre calentado y desde donde se originan huracanes y tormentas tropicales que provocan inundaciones, como sobre la línea del ecuador.
+•	Modelo Solar inteligente, que podrá flotar libremente en el océano y que dispondrá de un GPS, para conocer su posición y basada en una programación previa, decida según su posición si debe generar o no vapor, mientras enfría el océano.
+Dado que hasta ahora todos los modelos son solares y solo podrían contribuir durante el día, también será diseñado un modelo que pueda incorporar humedad a la atmósfera de noche:
+•	Modelo mecánico; que, basado en el movimiento de las olas y gracias a un péndulo mecánico, generará presión suficiente para atomizar agua de mar a la atmósfera, de forma permanente, de día y de noche, contribuyendo a dar humedad a la atmósfera y que deberá colocarse en zonas desde donde los vientos llevan humedad a lugares desérticos.
+Todos estos dispositivos, se basan en la idea de su inventor, el Ing. Álvaro Molina Samos.
+
+Probar los dispositivos primero en laboratorio, para validar su correcto funcionamiento y determinar la medida del impacto que estos dispositivos podrían lograr.
+Optimizar las dimensiones de los mismos, primero para maximizar su eficiencia, así como para abaratar los costos de fabricación, ya que su implementación deberá ser masiva y en grandes extensiones del océano, como para que puedan tener un impacto significativo.
+Una vez validada la información científica exitosa, se procederá a ofrecer estos dispositivos a la comunidad científica mundial, a las Naciones Unidas, a los gobiernos y a cualquier persona que quiera patrocinar y facilitar su implementación.
+Buscar apoyo de las universidades que realizan investigación científica en el área del clima y cómo adaptarse al calentamiento global, para desarrollar en conjunto este proyecto científico, validando su información y apoyando con científicos en otras áreas del conocimiento que son requeridas para el éxito de este proyecto.
+Buscar apoyo en embajadas y gobiernos interesados en apoyar el desarrollo de proyectos de investigación científica referidos al cambio climático y cómo adaptarse para garantizar la sobrevivencia de los seres humanos en el planeta tierra.
+
+
